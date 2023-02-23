@@ -14,4 +14,4 @@
 - PostgresSQL
 - Thymeleaf
 
-Проэкт создавался в учебных целях. Изначально был написан с использованием JdbcCTemplate, далее перенесен на Spring Boot и Data JPA
+Проект создавался в учебных целях. Изначально был написан с использованием JdbcCTemplate, далее перенесен на Spring Boot и Data JPA
